@@ -1,6 +1,4 @@
 package com.ptw.redis;
-import java.util.List;
-
 import org.redisson.Redisson;
 import org.redisson.api.RedissonClient;
 import org.redisson.config.Config;
